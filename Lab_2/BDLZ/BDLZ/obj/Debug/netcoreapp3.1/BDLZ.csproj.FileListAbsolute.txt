@@ -1,0 +1,15 @@
+C:\Users\maxde\source\repos\BDLZ\BDLZ\bin\Debug\netcoreapp3.1\BDLZ.exe
+C:\Users\maxde\source\repos\BDLZ\BDLZ\obj\Debug\netcoreapp3.1\BDLZ.csprojAssemblyReference.cache
+C:\Users\maxde\source\repos\BDLZ\BDLZ\obj\Debug\netcoreapp3.1\BDLZ.AssemblyInfoInputs.cache
+C:\Users\maxde\source\repos\BDLZ\BDLZ\obj\Debug\netcoreapp3.1\BDLZ.AssemblyInfo.cs
+C:\Users\maxde\source\repos\BDLZ\BDLZ\obj\Debug\netcoreapp3.1\BDLZ.csproj.CoreCompileInputs.cache
+C:\Users\maxde\source\repos\BDLZ\BDLZ\bin\Debug\netcoreapp3.1\BDLZ.deps.json
+C:\Users\maxde\source\repos\BDLZ\BDLZ\bin\Debug\netcoreapp3.1\BDLZ.runtimeconfig.json
+C:\Users\maxde\source\repos\BDLZ\BDLZ\bin\Debug\netcoreapp3.1\BDLZ.runtimeconfig.dev.json
+C:\Users\maxde\source\repos\BDLZ\BDLZ\bin\Debug\netcoreapp3.1\BDLZ.dll
+C:\Users\maxde\source\repos\BDLZ\BDLZ\bin\Debug\netcoreapp3.1\BDLZ.pdb
+C:\Users\maxde\source\repos\BDLZ\BDLZ\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\maxde\source\repos\BDLZ\BDLZ\obj\Debug\netcoreapp3.1\BDLZ.csproj.CopyComplete
+C:\Users\maxde\source\repos\BDLZ\BDLZ\obj\Debug\netcoreapp3.1\BDLZ.dll
+C:\Users\maxde\source\repos\BDLZ\BDLZ\obj\Debug\netcoreapp3.1\BDLZ.pdb
+C:\Users\maxde\source\repos\BDLZ\BDLZ\obj\Debug\netcoreapp3.1\BDLZ.genruntimeconfig.cache
